@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank_Print_the_Elements_of_a_Linked_List", "HackerRank_Print_the_Elements_of_a_Linked_List\HackerRank_Print_the_Elements_of_a_Linked_List.csproj", "{A0826CB1-E3D9-4922-9AEE-566E80AF0028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0826CB1-E3D9-4922-9AEE-566E80AF0028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0826CB1-E3D9-4922-9AEE-566E80AF0028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0826CB1-E3D9-4922-9AEE-566E80AF0028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0826CB1-E3D9-4922-9AEE-566E80AF0028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882C0F68-1DF8-40DD-9BF4-6AF0E0B6D4E1}
+	EndGlobalSection
+EndGlobal
